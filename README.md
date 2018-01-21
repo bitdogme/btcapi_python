@@ -3,3 +3,6 @@
 
 ## 虚拟币价格数据来源
 http://bitdog.me/api
+
+## 依赖库安装
+``` pip install requests ```
