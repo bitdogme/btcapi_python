@@ -5,4 +5,4 @@
 http://bitdog.me/api
 
 ## 依赖库安装
-``` pip install requests ```
+``` pip3 install requests ```
